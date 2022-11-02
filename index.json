@@ -1,0 +1,19 @@
+{
+    "key":"value",
+    "name":"safwan",
+    "role":"faculty",
+    "age" : 22,
+    "ismarried": null,
+    "faraghat":" ",
+    "marks" : 85.875,
+    "isAlive" : true,
+    "hobbies":["eat","sleep","sports"],
+    "myObj": {
+        "key":"value",
+        "name":"safwan",
+        "role":"faculty",
+        "age" : 22,
+        "isAlive" : true,
+        "hobbies":["eat","sleep","sports"],
+    }
+}
